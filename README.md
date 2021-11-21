@@ -1,2 +1,2 @@
-# SmartFinance
+# ItelligentFinance
 This repo contains my work for house price analysis, mortgage planning, quantitative trading and more...
